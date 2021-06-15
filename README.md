@@ -10,9 +10,7 @@
    A história do jogo foi baseada nas obras de **H.P Lovecraft**, em especial **O Chamado de Cthulhu**, na franquia **Bioshock,de 2007**, no jogo **Green Hell, de 2018**, e no filme **Ameaça Profunda, de 2020**. Seu estilo artistico foi inspirado nos jogos **Oscura, de 2011** e **Limbo, de 2010**. Conta sobre um biologo marinho, chamado John Smith, que junto de uma equipe de pesquisadores, viajou até a Fossa das Marianas para estudar o impacto da poluíção ambiental nas áreas abissais. Entretanto, devido a uma presença antiga e maligna do fundo do mar, John acabou separando-se dos demais, tendo de enfrentar a própria culpa e insanidade.
    
   A fonte utilizada foi baixada gratuitamento do site [Dafont](https://www.dafont.com/pt/).
-  
-  Código fonte e mais informações disponíveis [aqui](https://github.com/MurilloFagundesAS/SMAUG-2021-1).
-  
+    
  **Grupo**
 - Daniel Leal,arte
 - Murillo Fagundes, programação, roteiro e documentação
